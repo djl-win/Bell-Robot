@@ -9,13 +9,25 @@ This is a 3D robot simulator built with React and Three.js. You can control the 
 
 ## Installation Steps
 
-1. Install the dependencies:
+1. Clone this repo:
+
+    ```bash
+    git clone https://github.com/djl-win/Bell-Robot.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd bell-robot
+    ````
+
+3. Install the dependencies:
 
     ```bash
     npm install
     ```
 
-2. Run the project:
+4. Run the project:
 
     ```bash
     npm start
