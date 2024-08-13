@@ -12,7 +12,7 @@ This is a 3D robot simulator built with React and Three.js. You can control the 
 1. Clone this repo:
 
     ```bash
-    git clone https://github.com/djl-win/Bell-Robot.git
+    git clone https://github.com/djl-win/bell-robot.git
     ```
 
 2. Navigate to the project directory:
@@ -34,6 +34,10 @@ This is a 3D robot simulator built with React and Three.js. You can control the 
     ```
 
 The application will automatically open in your browser, and you can start interacting with the 3D robot model.
+
+
+## ScreenShot
+![1723522658921](https://github.com/user-attachments/assets/bba40cb0-3c43-42f3-a1a7-eef0f2cb28cb)
 
 
 ## Controls
