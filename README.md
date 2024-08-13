@@ -33,6 +33,4 @@ The application will automatically open in your browser, and you can start inter
 
 **Jiale Dong**
 
----
-
-*Date: August 13, 2024*
+**Date: August 13, 2024**
