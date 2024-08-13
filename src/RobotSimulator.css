@@ -1,0 +1,21 @@
+/* src/RobotSimulator.css */
+.RobotSimulator {
+    height: 100vh; /* Ensure the RobotSimulator occupies the full height of the viewport */
+    width: 100vw;  /* Ensure the RobotSimulator occupies the full width of the viewport */
+    position: relative; /* Position relative to allow absolute positioning of instructions */
+    background-color: #4a4a4a; /* Set the background color to leather gray */
+    overflow: hidden; /* Prevent overflow in the viewport */
+  }
+  
+  .instructions {
+    position: absolute; /* Position instructions within the RobotSimulator */
+    top: 10px;          /* Position at the top */
+    left: 10px;         /* Position at the left */
+    color: white;       /* Set text color to white */
+    font-size: 16px;    /* Set font size */
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 10px;      /* Add padding around the text */
+    border-radius: 5px; /* Rounded corners for the background */
+    z-index: 10;        /* Ensure the instructions are above the 3D scene */
+  }
+  
